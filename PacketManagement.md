@@ -23,9 +23,9 @@ Secara keseluruhan, SU, SUDO, dan SUDO SU adalah perintah yang berguna dalam men
 Untuk mensetting repository pada Linux, ikuti langkah-langkah berikut:
 1.	Buka terminal pada sistem Linux Anda.
 2.	Jalankan perintah *sudo nano /etc/apt/sources.list* untuk membuka file sources.list.
-3.	Cari baris yang berisi informasi repository yang ingin Anda tambahkan atau ubah. Baris tersebut akan terlihat seperti <deb <http://example.com/ubuntu> bionic main>.
-4.	Jika ingin menambahkan repository baru, tambahkan baris baru dengan format <deb <http://example.com/ubuntu> bionic main>. Ganti http://example.com/ubuntu dengan URL repository yang ingin Anda tambahkan, dan ganti bionic dengan nama versi distribusi Linux yang Anda gunakan.
+3.	Cari baris yang berisi informasi repository yang ingin Anda tambahkan atau ubah. Baris tersebut akan terlihat seperti *<deb <http://example.com/ubuntu> bionic main>.*
+4.	Jika ingin menambahkan repository baru, tambahkan baris baru dengan format *<deb <http://example.com/ubuntu> bionic main>.* Ganti http://example.com/ubuntu dengan URL repository yang ingin Anda tambahkan, dan ganti bionic dengan nama versi distribusi Linux yang Anda gunakan.
 5.	Jika ingin mengubah repository yang sudah ada, ubah baris yang sudah ada dengan URL repository yang baru.
-6.	Setelah selesai mengedit file sources.list, tekan Ctrl + X, lalu tekan Y untuk menyimpan perubahannya.
-7.	Jalankan perintah sudo apt-get update untuk memperbarui daftar paket dan repository pada sistem Linux Anda.
+6.	Setelah selesai mengedit file sources.list, tekan *Ctrl + X,* lalu tekan Y untuk menyimpan perubahannya.
+7.	Jalankan perintah *sudo apt-get update* untuk memperbarui daftar paket dan repository pada sistem Linux Anda.
 Setelah selesai melakukan langkah-langkah di atas, repository yang baru ditambahkan atau diubah akan tersedia pada sistem Linux Anda.
