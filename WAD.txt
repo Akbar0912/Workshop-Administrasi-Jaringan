@@ -1,0 +1,5 @@
+vsudo
+tambah kan user sesuai laptop
+
+
+sudo dhclient -v (jika terdapat eror pada dns mengping kebo.pens.ac.id)
