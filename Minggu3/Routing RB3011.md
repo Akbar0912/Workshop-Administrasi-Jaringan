@@ -9,4 +9,4 @@ pastikan semua PC mendapatkan ip sesuai dengan yang ditentukan
 
 ### Buka WInbox
 setelah sudah mencatat semua ip PC, buka Winbox dengan command *win winbox64.exe*, jika sudah terbuka akan seperti ini
-![](assets/img1.PNG)
+<img src="assets/img1.png">
