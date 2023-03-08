@@ -12,7 +12,7 @@ setelah sudah mencatat semua ip PC, buka Winbox dengan command *win winbox64.exe
 <img src="assets/img1.png">
 
 ### Konfigursai IP Address
-kemudian buka IP>Route>klik tanda +
+<p>kemudian buka IP>Route>klik tanda +<p>
 <img src="assets/img2.png">
 
 masukkan ip addres sebagai tujuan ke Dst. Address untuk yang gateway masukan IP ether 1 yang ada di ip tujuan,
