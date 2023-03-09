@@ -9,7 +9,7 @@ pastikan semua PC mendapatkan ip sesuai dengan yang ditentukan
 
 ### Buka WInbox
 setelah sudah mencatat semua ip PC, buka Winbox dengan command *win winbox64.exe*, jika sudah terbuka akan seperti ini
-<img src="assets/img1.png" width="" height="250">
+<img src="assets/img1.png" width="" height="500">
 
 ### Konfigursai IP Address
 <p>kemudian buka IP>Route>klik tanda +<p>
