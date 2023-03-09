@@ -44,7 +44,7 @@ jika sudah dimasukkan semua ip tiap pc akan seperti ini
 
 ### Cek IP Routingan
 jika sudah dimasukkan semua kita masuk ke terminal yang ada di winbox untuk mengecek apakah sudah terhubung atau belum
-<img src="assets/img4.png">
+<img src="assets/img4.png" width="" height="500">
 <img src="assets/img5.png">
 <img src="assets/img6.png">
 <img src="assets/img7.png">
@@ -55,18 +55,21 @@ jika sudah dimasukkan semua kita masuk ke terminal yang ada di winbox untuk meng
 <img src="assets/img12.png">
 
 ### Instalasi Virtual Box di Ubuntu
-yang pertama kita masuk ke source.list untuk mengatur repo masukkan command berikut *deb http://kebo.pens.ac.id/debian sid main contrib non-free*
-<img src="assets/img13.png">
+yang pertama kita masuk ke source.list untuk mengatur repo masukkan command berikut ```deb http://kebo.pens.ac.id/debian sid main contrib non-free```
+  
+<img src="assets/img13.png" width="" height="250">
   
 setelah itu lakukan update dengan command sudo apt update
-<img src="assets/img14.png">
+  
+<img src="assets/img14.png" width="" height="250">
   
  kemudian lakukan langkah instalasi virtual box dengan command sudo apt install vierualbox
- <img src="assets/img15.png">
+  
+ <img src="assets/img15.png" width="" height="500">
   
  ### Membuat Virtual Machine
- <img src="assets/img16.png">
- <img src="assets/img17.png">
- <img src="assets/img18.png">
- <img src="assets/img19.png">
- <img src="assets/img20.png">
+ <img src="assets/img16.png" width="" height="250">
+ <img src="assets/img17.png" width="" height="250">
+ <img src="assets/img18.png" width="" height="250">
+ <img src="assets/img19.png" width="" height="500">
+ <img src="assets/img20.png" width="" height="500">
