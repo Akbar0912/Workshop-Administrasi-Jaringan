@@ -31,7 +31,7 @@ sudo apt-get install wine32
 ```
 
 ### Buka WInbox
-setelah sudah mencatat semua ip PC, buka Winbox dengan command *win winbox64.exe*, jika sudah terbuka akan seperti ini
+setelah sudah mencatat semua ip PC, buka Winbox dengan command ```win winbox64.exe```, jika sudah terbuka akan seperti ini
 <img src="assets/img1.png" width="" height="500">
 
 ### Konfigursai IP Address
