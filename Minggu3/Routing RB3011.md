@@ -7,6 +7,29 @@
 ### Cek IP Address PC dan Tiap PC lainnya
 pastikan semua PC mendapatkan ip sesuai dengan yang ditentukan
 
+### Install Wine
+
+- Buka terminal dan perbarui sistem anda, jalankan :
+
+```sh
+sudo apt-get update
+sudo apt-get upgrade
+```
+
+- Setelah proses pembaruan selesai, jalankan perintah berikut untuk menginstal Wine:
+
+```sh
+sudo apt-get install wine
+```
+
+- Jika Anda menggunakan sistem operasi Debian 64-bit, jalankan perintah berikut untuk menginstal dependensi 32-bit yang diperlukan untuk menjalankan aplikasi 32-bit di Wine:
+
+```sh
+sudo dpkg --add-architecture i386
+sudo apt-get update
+sudo apt-get install wine32
+```
+
 ### Buka WInbox
 setelah sudah mencatat semua ip PC, buka Winbox dengan command *win winbox64.exe*, jika sudah terbuka akan seperti ini
 <img src="assets/img1.png" width="" height="500">
@@ -32,7 +55,7 @@ jika sudah dimasukkan semua kita masuk ke terminal yang ada di winbox untuk meng
 <img src="assets/img12.png">
 
 ### Instalasi Virtual Box di Ubuntu
-yang pertama kita masuk ke source.list untuk mengatur repo masukkan command berikut *deb http://kebo.pens.ac.id/debian sid main contrib non-free*
+yang pertama kita masuk ke source.list untuk mengatur repo masukkan command berikut ```sh deb http://kebo.pens.ac.id/debian sid main contrib non-free ```
   
 <img src="assets/img13.png">
   
