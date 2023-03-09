@@ -33,4 +33,5 @@ jika sudah dimasukkan semua kita masuk ke terminal yang ada di winbox untuk meng
 
 ### Instalasi Virtual Box di Ubuntu
 yang pertama kita masuk ke source.list untuk mengatur repo masukkan command berikut *deb http://kebo.pens.ac.id/debian sid main contrib non-free*
+
 <img src="assets/img13.png">
