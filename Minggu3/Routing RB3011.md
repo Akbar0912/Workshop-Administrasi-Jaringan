@@ -35,3 +35,16 @@ jika sudah dimasukkan semua kita masuk ke terminal yang ada di winbox untuk meng
 yang pertama kita masuk ke source.list untuk mengatur repo masukkan command berikut *deb http://kebo.pens.ac.id/debian sid main contrib non-free*
   
 <img src="assets/img13.png">
+  
+setelah itu lakukan update dengan command sudo apt update
+<img src="assets/img14.png">
+  
+ kemudian lakukan langkah instalasi virtual box dengan command sudo apt install vierualbox
+ <img src="assets/img15.png">
+  
+ ### Membuat Virtual Machine
+ <img src="assets/img16.png">
+ <img src="assets/img17.png">
+ <img src="assets/img18.png">
+ <img src="assets/img19.png">
+ <img src="assets/img20.png">
