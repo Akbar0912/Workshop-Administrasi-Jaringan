@@ -2,7 +2,7 @@
 ### Kelompok 7
 <P>Akbar Pratama Bimantoro (3121600053)</p>
 <p>Imam Shofiudin (3121600057)</p>
-<p>Nicho adhyatma ()</P>
+<p>Nicho adhyatma (3121600049)</P>
 
 ### Cek IP Address PC dan Tiap PC lainnya
 pastikan semua PC mendapatkan ip sesuai dengan yang ditentukan
