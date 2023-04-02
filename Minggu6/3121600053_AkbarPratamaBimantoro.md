@@ -7,8 +7,8 @@ Dr. Ferry Astika Saputra ST, M.Sc
 
 ### Disusun Oleh
 Akbar Pratama Bimantoro - 3121600053<br>
-Lifta Anisa - 31216000<br>
-Aditya Bagus - 3121600<br>
+Lifta Annisa Husaina - 3121600045<br>
+Aditya Bagus Ferryanto - 31216000448<br>
 2 D4 IT B
 
 ### Domain Name Service (DNS)
