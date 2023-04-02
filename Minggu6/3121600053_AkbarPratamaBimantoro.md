@@ -22,7 +22,7 @@ File konfigurasi DNS disimpan di direktori `/etc/bind`. File konfigurasi utama a
 - ```/etc/bind/named.conf.local```: untuk zona User
 - ```/etc/bind/named.conf.default-zones```: zona default seperti localhost.
 
-### Atur penamaan Hosts
+## Atur Penamaan Hosts
 
 jika pada VM penamaan host belum sesaui bisa mengatur dengan perintah ```sudo hostnamectl set-hostname server10kelompok1.takehome.com```
 
@@ -34,7 +34,7 @@ buat terlebih dahulu server di VM sesuaikan ip dengan jaringan yang terhubung da
 
 <img src="assets/1.png" width="" height="350" />
 
-untuk mengaktifkan konfigurasi baru, mulai ulang server DNS. dari terminat dengan perintah berikut ```sudo apt install bind9 bind9utils bind9-doc dnsutils
+untuk mengaktifkan konfigurasi baru, mulai ulang server DNS. dari terminat dengan perintah berikut ```sudo apt install bind9 bind9utils bind9-doc dnsutils```
 
 <img src="assets/5.png" width="" height="350"/>
 
