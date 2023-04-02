@@ -84,7 +84,7 @@ Testing di PC Clint<br>
 <img src="assets/18.png"/>
 
 ## Problem Solving
-jika terdapat ```wired unmanaged``` lakukan konfigurasi pada file ```/etc/NetworkManager/NetworkManager. conf``` dan ubah pada bagian manage menjadi true, setalah itu lakukan restart dengan perintah ```systemctl restart NetworkManager```
+jika terdapat ```wired unmanaged``` pada jaringan di VM lakukan konfigurasi pada file ```/etc/NetworkManager/NetworkManager. conf``` dan ubah pada bagian manage menjadi true, setalah itu lakukan restart dengan perintah ```systemctl restart NetworkManager```
 
 
 
