@@ -15,6 +15,7 @@ Aditya Bagus - 3121600<br>
 Domain Name Service (DNS) adalah layanan Internet yang memetakan alamat IP dan nama domain yang memenuhi syarat (FQDN) satu sama lain. Dengan cara ini, DNS mengurangi kebutuhan untuk mengingat alamat IP. Komputer yang menjalankan DNS disebut name servers. Ubuntu dilengkapi dengan BIND (Berkley Internet Naming Daemon), program yang paling umum digunakan untuk mengelola name servers di Linux.
 
 ### Overview
+
 File konfigurasi DNS disimpan di direktori `/etc/bind`. File konfigurasi utama adalah `/etc/ bind/named.conf`, yang dalam tata letak yang disediakan oleh paket menyertakan berkas-berkas berikut:
 
 - ```/etc/bind/named.conf.options```: opsi DNS global
@@ -22,11 +23,13 @@ File konfigurasi DNS disimpan di direktori `/etc/bind`. File konfigurasi utama a
 - ```/etc/bind/named.conf.default-zones```: zona default seperti localhost.
 
 #### Atur penamaan Hosts
+
 jika pada VM penamaan host belum sesaui bisa mengatur dengan perintah ```sudo hostnamectl set-hostname server10kelompok1.takehome.com```
 
 kemudian edit file ```/etc/hosts``` tambahkan hostsnamenya
 
 ### Instalasi
+
 buat terlebih dahulu server di VM sesuaikan ip dengan jaringan yang terhubung dan jangan lupa untuk megubah network pada VM menjadi Bridge
 
 <img src="assets/1.png" width="" height="350" />
@@ -65,6 +68,7 @@ kemudian pada file konfigurasi reverse zone akan memeindahkan isi dari file deng
 <img src="assets/15.png" widht="" height="350"/>
 
 ### Testing
+
 Langkah pertama dalam menguji BIND9 adalah menambahkan Alamat IP nameserver ke host resolver. Nameserver utama harus dikonfigurasi seperti halnya host lain untuk memeriksa ulang berbagai hal. Buka DNS client untuk mengetahui detail tentang cara menambahkan alamat nameserver ke network client. Edit nameserver dan parameter untuk domain pada file ```/etc/resolv.conf```
 
 <img src="assets/16.png" width="" height="350"/>
