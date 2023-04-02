@@ -5,4 +5,4 @@ Kumpulan Tugas Mata Kulias Workshop administrasi Jaringan
 ## [Minggu ke 3](https://github.com/Akbar0912/Workshop-Administrasi-Jaringan/blob/main/Minggu3/Routing%20RB3011.md)
 ## [Minggu ke 4]()
 ## [Minggu ke 5]()
-## [Minggu ke 6]()
+## [Minggu ke 6](https://github.com/Akbar0912/Workshop-Administrasi-Jaringan/blob/main/Minggu6/3121600053_AkbarPratamaBimantoro.md)
