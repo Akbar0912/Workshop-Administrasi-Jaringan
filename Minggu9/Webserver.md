@@ -50,7 +50,7 @@ composer create-project laravel/laravel kel1
 ```sh
 php artisan serve --host={ip-vm} --port=8000
 ```
-<img src="assets/6.png">
+<img src="assets/6.jpg">
 
 menjalankan php artisan harus masuk ke dalam direktori kel1 yang dibuat tadi
 
@@ -58,4 +58,4 @@ menjalankan php artisan harus masuk ke dalam direktori kel1 yang dibuat tadi
 
 - setelah itu kita cek apakah laravel pada client lain dapat diakses
 
-<img src="assets/3.png">
+<img src="assets/5.jpg">
